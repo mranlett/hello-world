@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Second round of edits - removed and replaced a line
 
 This is some sample text
 The quick brown fox jumped over the lazy dog
